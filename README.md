@@ -1,12 +1,12 @@
 # Game Portal
 
-This is a GraphQL project that uses MongoDB and TypeScript. The idea behind is a simple platform where users, developer and games can be registered.
+This is a GraphQL project that uses MongoDB and TypeScript. The idea behind is a simple platform where users, developer(company) and games can be registered.
 
 > ``MONGODB_URL`` to be set before running the project
 
 ## Collections
 - User
-- Developer
+- Developer (company)
 - Game
 
 CRUD operations are supported for each of the 3 collections.
